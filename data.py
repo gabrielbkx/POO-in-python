@@ -1,16 +1,83 @@
 question_data = [
-    {"text": "O sangue de uma lesma é verde.", "answer": "True"},
-    {"text": "O animal mais barulhento é o Elefante Africano.", "answer": "False"},
-    {"text": "Aproximadamente um quarto dos ossos humanos estão nos pés.", "answer": "True"},
-    {"text": "A área total da superfície dos pulmões humanos é do tamanho de um campo de futebol.", "answer": "True"},
-    {"text": "Em West Virginia, EUA, se você acidentalmente atropelar um animal com seu carro,"
-             " você pode levá-lo para casa para comer.","answer": "True"},
-    {"text": "Em Londres, Reino Unido, se você morrer na Casa do Parlamento, você tem direito a um funeral de estado."
-        , "answer": "False"},
-    {"text": "É ilegal urinar no Oceano em Portugal.", "answer": "True"},
-    {"text": "Você pode conduzir uma vaca para descer escadas, mas não para subir.", "answer": "False"},
-    {"text": "O Google foi originalmente chamado de 'Backrub'.", "answer": "True"},
-    {"text": "O nome de solteira da mãe de Buzz Aldrin era 'Moon'.", "answer": "True"},
-    {"text": "Nenhum pedaço de papel seco quadrado pode ser dobrado ao meio mais de 7 vezes.", "answer": "False"},
-    {"text": "Algumas onças de chocolate podem matar um cachorro pequeno.", "answer": "True"}
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "O sistema operacional Windows ME foi lançado no ano 2000.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "Linus Torvalds criou o Linux e o Git.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "Ada Lovelace é frequentemente considerada a primeira programadora de computadores.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "\"HTML\" significa Hypertext Markup Language.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "A linguagem de programação Python recebe seu nome do grupo de comédia britânico \"Monty Python\".",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "O sistema operacional Windows 7 possui seis edições principais.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "A NVidia GTX 1080 recebe esse nome porque só pode renderizar em uma resolução de tela de 1920x1080.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "Ponteiros não foram usados na linguagem de programação C original; eles foram adicionados mais tarde no C++.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "RAM significa Random Access Memory (Memória de Acesso Aleatório).",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Ciência: Computadores",
+        "question": "A linguagem de programação \"Python\" é baseada em uma versão modificada do \"JavaScript\".",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }
 ]
+
